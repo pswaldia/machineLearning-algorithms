@@ -1,3 +1,5 @@
+#Two layer neural network with 3 units in hidden layer GIVES ACCURACY 3% more than that of the NN with 1 layer. So a significant increase is there.
+
 import numpy as np
 from data_prep import features, targets, features_test, targets_test
 
